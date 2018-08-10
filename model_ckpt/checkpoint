@@ -1,0 +1,4 @@
+model_checkpoint_path: "LeNet_20"
+all_model_checkpoint_paths: "LeNet_18"
+all_model_checkpoint_paths: "LeNet_19"
+all_model_checkpoint_paths: "LeNet_20"
